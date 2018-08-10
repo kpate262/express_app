@@ -12,6 +12,7 @@
     "express": "^4.16.3",
     "file-system": "^2.2.2",
     "morgan": "~1.0.0",
+    "nodeman": "^1.1.2",
     "nodemon": "^1.18.3",
     "pug": "^2.0.3",
     "static-favicon": "~1.0.0"
